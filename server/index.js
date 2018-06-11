@@ -3,7 +3,7 @@ var app = express();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
 
-server.listen('6677', 'https://crisgal-chat-node.herokuapp.com', function(){
+server.listen(6677, function(){
 	console.log('El servidor está funcionando en localhost:6677')
 });
 
