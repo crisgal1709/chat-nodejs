@@ -1,4 +1,4 @@
-var socket = io.connect('https://crisgal-chat-node.herokuapp.com/', {
+var socket = io.connect('https://crisgal-chat-node.herokuapp.com', {
 	forceNew: true,
 })
 
