@@ -1,0 +1,16 @@
+#messages {
+	width: 95%;
+	max-height: 450px;
+	height: 350px;
+	overflow-y: scroll;
+	border: solid 1px #eee;	
+	box-shadow: 0 0 20px #ccc inset;
+}
+
+.message {
+	margin: 20px;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: white;
+}
