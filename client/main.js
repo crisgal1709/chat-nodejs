@@ -2,6 +2,8 @@ var socket = io.connect('https://crisgal-chat-node.herokuapp.com:3000', {
 	forceNew: true,
 })
 
+console.log(socket);
+
 socket.on('messages', function(data){
 	render(data);
 })
@@ -27,7 +29,7 @@ function addMessage(e){
 		nickname: document.getElementById('nickname').value,
 		text: document.getElementById('text').value
 	};
-	console.log(message);
+	//console.log(message);
 	document.getElementById('nickname').style.display = 'none';
 	document.getElementById('text').value = '';
 
