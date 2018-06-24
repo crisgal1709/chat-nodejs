@@ -2,7 +2,6 @@ var socket = io.connect('https://crisgal-chat-node.herokuapp.com:3000', {
 	forceNew: true,
 })
 
-
 socket.on('messages', function(data){
 	render(data);
 })
