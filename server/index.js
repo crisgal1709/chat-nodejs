@@ -35,6 +35,13 @@ io.on('connection', (socket) => {
 		io.sockets.emit('messages', messages);
 	});
 
+	socket.on('verificar_paciente_atencion', function(data){
+		var mensaje = {
+			on: true
+		};
+		io.sockets.emit('paciente_atencion', mensaje);
+	})
+
 });
 
 
