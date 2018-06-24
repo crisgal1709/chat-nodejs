@@ -3,8 +3,10 @@ var app = express();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
 
-server.listen(6677, function(){
-	console.log('El servidor está funcionando en localhost:6677')
+var port = process.env.PORT || 3000;
+
+server.listen(port, function(){
+	console.log('El servidor está funcionando en localhost:' + port);
 });
 
 //Ruta
@@ -20,6 +22,9 @@ var messages = [
 		nickname: 'Bot - @cristiangno'
 	}
 ];
+
+// io.set('origins', '*:*')
+// io.set('match origin protocol', true)
 
 io.on('connection', (socket) => {
 	console.log('El nodo con IP: ' + socket.handshake.address + ' Se ha conectado');

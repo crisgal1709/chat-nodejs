@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"sc",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
 				"fecha_ti",
 				"fecha_tipo_a"
 			],
@@ -494,45 +514,35 @@
 			[
 				"fc-",
 				"fc-nonbusiness"
-			],
-			[
-				"auto",
-				"autorizadoModificar"
-			],
-			[
-				"fc-t",
-				"fc-time"
-			],
-			[
-				"fc-ti",
-				"fc-title"
-			],
-			[
-				"WID",
-				"width"
-			],
-			[
-				"inl",
-				"inline-block"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "client/main.js",
 			"settings":
 			{
-				"buffer_size": 121,
+				"buffer_size": 785,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "package.json",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 265,
+				"buffer_size": 250,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 815,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -601,7 +611,7 @@
 				"Bookmarks: Select All"
 			]
 		],
-		"width": 520.0
+		"width": 480.0
 	},
 	"console":
 	{
@@ -621,11 +631,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/AMPPS/www/curso-sockets",
-		"/Applications/AMPPS/www/curso-sockets/cgi-bin"
+		"/Applications/AMPPS/www/curso-sockets"
 	],
 	"file_history":
 	[
+		"/Applications/AMPPS/www/curso-sockets/client/main.css",
+		"/Applications/AMPPS/www/curso-sockets/package.json",
+		"/Applications/AMPPS/www/curso-sockets/server/index.js",
+		"/Applications/AMPPS/www/curso-sockets/client/index.html",
+		"/Applications/AMPPS/www/curso-sockets/client/main.js",
+		"/Applications/AMPPS/www/curso-sockets/.gitignore",
+		"/Applications/AMPPS/www/curso-sockets/index.html",
+		"/Applications/AMPPS/www/curso-sockets/package.sublime-project",
 		"/Applications/AMPPS/www/pruebas/fechas.php",
 		"/Applications/AMPPS/www/redis/composer.json",
 		"/Applications/AMPPS/www/redis/routes/web.php",
@@ -745,19 +762,11 @@
 		"/Applications/AMPPS/www/hcfa/app/Models/Core/Users.php",
 		"/Applications/AMPPS/www/hcfa/app/Models/Consentimiento.php",
 		"/Applications/AMPPS/www/hcfa/app/Models/Core/Groups.php",
-		"/Applications/AMPPS/www/hcfa/.env",
-		"/Applications/AMPPS/www/hcfa/resources/views/historiaclinicapreliminar/formularios/revisionsistemas.blade.php",
-		"/Applications/AMPPS/www/hcfa/vendor/barryvdh/laravel-dompdf/src/PDF.php",
-		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
-		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Routing/ControllerInspector.php",
-		"/Applications/AMPPS/www/cemde/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
-		"/Applications/AMPPS/www/cemde/app/Models/Calendario.php",
-		"/Applications/AMPPS/www/cemde/routes/web.php",
-		"/Applications/AMPPS/www/cemde/app/Http/Controllers/PacientesController.php"
+		"/Applications/AMPPS/www/hcfa/.env"
 	],
 	"find":
 	{
-		"height": 85.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -771,6 +780,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"message",
+			"span",
+			"title"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -793,19 +805,48 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "client/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 121,
+						"buffer_size": 785,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								72,
-								80
+								49,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
 							]
 						],
 						"settings":
@@ -817,35 +858,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "package.json",
-					"semi_transient": true,
+					"buffer": 2,
+					"file": "server/index.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 265,
+						"buffer_size": 815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								155,
+								155
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
