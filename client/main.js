@@ -2,12 +2,19 @@ var socket = io.connect('https://crisgal-chat-node.herokuapp.com', {
 	forceNew: true,
 })
 
-console.log(socket);
+// var socket = io.connect('http://localhost:3000', {
+// 	forceNew: true,
+// })
+
+//console.log(socket);
 
 socket.on('messages', function(data){
 	render(data);
 })
 
+socket.on('evento-prueba', function(data){
+	console.log(data);
+})
 
 function render(data){
 	var html = data.map(function(message, index){
