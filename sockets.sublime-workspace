@@ -520,6 +520,15 @@
 	"buffers":
 	[
 		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 1110,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "package.json",
 			"settings":
 			{
@@ -532,16 +541,7 @@
 			"file": "client/main.js",
 			"settings":
 			{
-				"buffer_size": 823,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server/index.js",
-			"settings":
-			{
-				"buffer_size": 1074,
+				"buffer_size": 973,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -631,13 +631,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/AMPPS/www/sockets"
+		"/Applications/AMPPS/www/sockets",
+		"/Applications/AMPPS/www/sockets/client",
+		"/Applications/AMPPS/www/sockets/controllers",
+		"/Applications/AMPPS/www/sockets/server"
 	],
 	"file_history":
 	[
-		"/Applications/AMPPS/www/sockets/client/main.js",
 		"/Applications/AMPPS/www/sockets/server/index.js",
+		"/Applications/AMPPS/www/sockets/client/main.js",
 		"/Applications/AMPPS/www/sockets/package.json",
+		"/Applications/AMPPS/www/sockets/controllers/index.js",
 		"/Applications/AMPPS/www/curso-sockets/client/main.js",
 		"/Applications/AMPPS/www/curso-sockets/client/index.html",
 		"/Applications/AMPPS/www/curso-sockets/server/index.js",
@@ -761,8 +765,7 @@
 		"/Applications/AMPPS/www/hcfa/.gitignore",
 		"/Applications/AMPPS/www/hcfa/app/Models/RecomendacionesAdvertencia.php",
 		"/Applications/AMPPS/www/hcfa/app/Models/RecomendacionesAdvertenciaDefinitiva.php",
-		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
-		"/Applications/AMPPS/www/hcfa/app/Models/Core/Users.php"
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Routing/Controller.php"
 	],
 	"find":
 	{
@@ -802,6 +805,35 @@
 			[
 				{
 					"buffer": 0,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								691
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
 					"file": "package.json",
 					"semi_transient": false,
 					"settings":
@@ -813,8 +845,8 @@
 						"selection":
 						[
 							[
-								185,
-								185
+								167,
+								167
 							]
 						],
 						"settings":
@@ -827,24 +859,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"file": "client/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 823,
+						"buffer_size": 973,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								88,
-								0
+								64,
+								25
 							]
 						],
 						"settings":
@@ -854,35 +886,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "server/index.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1074,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								385,
-								325
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 146.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
