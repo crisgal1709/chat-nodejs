@@ -16,7 +16,7 @@ socket.on('evento-prueba', function(data){
 	console.log(data);
 })
 
-socket.on("App\\Events\\PacienteLLamado", function(data){
+socket.on("App\Events\PacienteLLamado", function(data){
 	console.log(data);
 });
 
