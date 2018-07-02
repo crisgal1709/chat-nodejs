@@ -8,6 +8,8 @@ var socket = io.connect('https://crisgal-chat-node.herokuapp.com', {
 
 //console.log(socket);
 
+//Cambiar el io.connect para local o para heroku
+
 socket.on('messages', function(data){
 	render(data);
 })
@@ -16,7 +18,7 @@ socket.on('evento-prueba', function(data){
 	console.log(data);
 })
 
-socket.on("App\Events\PacienteLLamado", function(data){
+socket.on('App\\Events\\PacienteLLamado', function(data){
 	console.log(data);
 });
 

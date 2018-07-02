@@ -13,7 +13,7 @@ server.listen(port, function(){
 app.get('/prueba', (req, res)=> {
 	//console.log(req.query.event);
 	io.emit(req.query.event, req.query )
-	res.status(200).send('si');
+	res.status(200).send('');
 });
 
 //Sockets
