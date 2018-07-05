@@ -16,12 +16,12 @@ socket.on('messages', function(data){
 	render(data);
 })
 
-<<<<<<< HEAD
+
 socket.on('prueba', function(data){
 	addMessage(data);
 })
 
-=======
+
 socket.on('evento-prueba', function(data){
 	console.log(data);
 })
@@ -29,7 +29,7 @@ socket.on('evento-prueba', function(data){
 socket.on('App\\Events\\PacienteLLamado', function(data){
 	console.log(data);
 });
->>>>>>> 8bdda950287b1ddc357b7535c0d39825f617e426
+
 
 function render(data){
 	var html = data.map(function(message, index){
