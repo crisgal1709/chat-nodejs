@@ -10,10 +10,17 @@ server.listen(port, function(){
 });
 
 //Ruta
+<<<<<<< HEAD
 app.get('/hola-mundo', (req, res)=> {
 	console.log(req.query);
 	io.emit('prueba', req.query )
 	res.status(200).send('si');
+=======
+app.get('/prueba', (req, res)=> {
+	//console.log(req.query.event);
+	io.emit(req.query.event, req.query )
+	res.status(200).send('');
+>>>>>>> 8bdda950287b1ddc357b7535c0d39825f617e426
 });
 
 //Sockets

@@ -519,39 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "server/index.js",
-<<<<<<< HEAD:sockets.sublime-workspace
-			"settings":
-			{
-				"buffer_size": 1100,
-=======
-			"settings":
-			{
-				"buffer_size": 1110,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 405,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/main.js",
-			"settings":
-			{
-				"buffer_size": 973,
->>>>>>> 8bdda950287b1ddc357b7535c0d39825f617e426:sockets.sublime-workspace
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -635,31 +602,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-<<<<<<< HEAD:sockets.sublime-workspace
-		"/Applications/AMPPS/www/sockets-prueba",
-		"/Applications/AMPPS/www/sockets-prueba/server"
-	],
 	"file_history":
 	[
-		"/Applications/AMPPS/www/sockets-prueba/package.json",
 		"/Applications/AMPPS/www/sockets/client/main.js",
 		"/Applications/AMPPS/www/sockets/server/index.js",
 		"/Applications/AMPPS/www/sockets/package.json",
-=======
-		"/Applications/AMPPS/www/sockets",
-		"/Applications/AMPPS/www/sockets/client",
-		"/Applications/AMPPS/www/sockets/controllers",
-		"/Applications/AMPPS/www/sockets/server"
-	],
-	"file_history":
-	[
-		"/Applications/AMPPS/www/sockets/server/index.js",
-		"/Applications/AMPPS/www/sockets/client/main.js",
-		"/Applications/AMPPS/www/sockets/package.json",
-		"/Applications/AMPPS/www/sockets/controllers/index.js",
->>>>>>> 8bdda950287b1ddc357b7535c0d39825f617e426:sockets.sublime-workspace
 		"/Applications/AMPPS/www/curso-sockets/client/main.js",
 		"/Applications/AMPPS/www/curso-sockets/client/index.html",
 		"/Applications/AMPPS/www/curso-sockets/server/index.js",
@@ -783,7 +730,8 @@
 		"/Applications/AMPPS/www/hcfa/.gitignore",
 		"/Applications/AMPPS/www/hcfa/app/Models/RecomendacionesAdvertencia.php",
 		"/Applications/AMPPS/www/hcfa/app/Models/RecomendacionesAdvertenciaDefinitiva.php",
-		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Routing/Controller.php"
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/Core/Users.php"
 	],
 	"find":
 	{
@@ -818,109 +766,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "server/index.js",
-<<<<<<< HEAD:sockets.sublime-workspace
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1100,
-=======
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1110,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								691,
-								691
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								167,
-								167
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "client/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 973,
->>>>>>> 8bdda950287b1ddc357b7535c0d39825f617e426:sockets.sublime-workspace
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-<<<<<<< HEAD:sockets.sublime-workspace
-								325,
-								408
-=======
-								64,
-								25
->>>>>>> 8bdda950287b1ddc357b7535c0d39825f617e426:sockets.sublime-workspace
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -964,7 +811,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "sockets.sublime-project",
+	"project": "untitled.sublime-project",
 	"replace":
 	{
 		"height": 50.0
