@@ -11,7 +11,9 @@ server.listen(port, function(){
 
 //Ruta
 app.get('/hola-mundo', (req, res)=> {
-	res.status(200).send('Hola mundo desde Nodejs y socket.io');
+	console.log(req.query);
+	io.emit('prueba', req.query )
+	res.status(200).send('si');
 });
 
 //Sockets
@@ -27,7 +29,7 @@ var messages = [
 // io.set('match origin protocol', true)
 
 io.on('connection', (socket) => {
-	console.log('El nodo con IP: ' + socket.handshake.address + ' Se ha conectado');
+	//console.log('El nodo con IP: ' + socket.handshake.address + ' Se ha conectado');
 	socket.emit('messages', messages);
 
 	socket.on('addMessage', function(data) {
@@ -44,7 +46,7 @@ io.on('connection', (socket) => {
 
 });
 
+app.use(express.static('client'));
 
 
-app.use(express.static('client'))
 
