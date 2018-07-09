@@ -2,12 +2,16 @@ var express = require('express');
 var app = express();
 var server = require('http').Server(app);
 var io = require('socket.io')(server);
+var bodyParser = require('body-parser');
 
 var port = process.env.PORT || 3000;
 
 server.listen(port, function(){
 	console.log('El servidor está funcionando en localhost:' + port);
 });
+
+app.use(bodyParser.urlencoded({extended: false}))
+app.use(bodyParser.json());
 
 //Ruta
 
@@ -20,6 +24,11 @@ app.get('/hola-mundo', (req, res)=> {
 app.get('/prueba', (req, res)=> {
 	//console.log(req.query.event);
 	io.emit(req.query.event, req.query )
+	res.status(200).send('');
+});
+
+app.post('/event-post', (req, res) => {
+	io.emit(req.body.event, req.body)
 	res.status(200).send('');
 });
 
