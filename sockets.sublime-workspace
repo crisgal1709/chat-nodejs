@@ -1,1 +1,1545 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"Proj",
+				"Project\talias"
+			],
+			[
+				"getPro",
+				"getProject"
+			],
+			[
+				"form",
+				"from\tkeyword"
+			],
+			[
+				"fil",
+				"filesToUpload\tproperty"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"XM",
+				"XMLHttpRequest\tvar"
+			],
+			[
+				"Http",
+				"HttpHeaders\talias"
+			],
+			[
+				"Proje",
+				"ProjectService\talias"
+			],
+			[
+				"fro",
+				"from\tkeyword"
+			],
+			[
+				"pro",
+				"project\tscript"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"Erro",
+				"ErrorComponent\talias"
+			],
+			[
+				"create",
+				"CreateComponent\talias"
+			],
+			[
+				"projec",
+				"projectId"
+			],
+			[
+				"proje",
+				"project_routes"
+			],
+			[
+				"modu",
+				"module"
+			],
+			[
+				"Project",
+				"ProjectSchema"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"desc",
+				"descripcion\tproperty"
+			],
+			[
+				"v",
+				"videojuego.component.ts"
+			],
+			[
+				"Video",
+				"VideoJuegoComponent\talias"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"salida",
+				"salidaInventario"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			],
+			[
+				"index",
+				"index2.html"
+			],
+			[
+				"arial-",
+				"arial-narrow.ttf"
+			],
+			[
+				"neumo",
+				"neumologia"
+			],
+			[
+				"Cache",
+				"Cache::forever\tStore an item in the Cache Permanently"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"Session",
+				"Session::get\tRetrieve an Item from the Session or Default Value"
+			],
+			[
+				"Sch",
+				"Schema::create-table\tCreate new table"
+			],
+			[
+				"Sc",
+				"Schema::drop\tDrop an existing database table"
+			],
+			[
+				"array_",
+				"array_combine"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"re",
+				"request\tL5 Request"
+			],
+			[
+				"map",
+				"map\t$.map()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"factura",
+				"facturaOPrefactura"
+			],
+			[
+				"factur",
+				"facturaOPrefactura"
+			],
+			[
+				"arr",
+				"array_merge"
+			],
+			[
+				"array",
+				"array_chunk"
+			],
+			[
+				"arra",
+				"array_combine"
+			],
+			[
+				"num",
+				"numOperations"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"usuario",
+				"usuario_id"
+			],
+			[
+				"Sessi",
+				"Session::has\tDetermin if an Item Exists in the Session"
+			],
+			[
+				"focus",
+				"focusout\t.focusout()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"each",
+				"each\t.each()"
+			],
+			[
+				"impre",
+				"impresiones\\layout.blade.php \tBlade Autocomplete"
+			],
+			[
+				"consentimiento",
+				"consentimientoInformado"
+			],
+			[
+				"proced",
+				"procedimiento"
+			],
+			[
+				"camina",
+				"caminata"
+			],
+			[
+				"entrenami",
+				"entrenamientoResistencia"
+			],
+			[
+				"cuestiona",
+				"cuestionarioAnsiedad"
+			],
+			[
+				"class",
+				"class_alias"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"ajax",
+				"ajax\tGoogle AJAX Libraries: jQuery"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"cuestionario",
+				"cuestionarioCalidadVida"
+			],
+			[
+				"dispa",
+				"dispatch\tL5 Dispatch"
+			],
+			[
+				"Sessionf",
+				"Session::forget\tRemove an Item from the Session"
+			],
+			[
+				"slide",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"Routere",
+				"Route::resource\tRoute to a RESTful Controller"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"method_",
+				"method_field\tL5 Method Field"
+			],
+			[
+				"ordenO",
+				"OrdenOficializada"
+			],
+			[
+				"Rout",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"construc",
+				"__construct"
+			],
+			[
+				"C",
+				"Controller/"
+			],
+			[
+				"paramsFrom",
+				"paramsFromVariables"
+			],
+			[
+				"params",
+				"paramsFromString"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"disba",
+				"disabled\tAttr"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"se",
+				"select\t.select()"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"get_the_post_",
+				"get_the_post_thumbnail"
+			],
+			[
+				"add_post",
+				"add_post_type_support"
+			],
+			[
+				"brow",
+				"browser\t$.browser()"
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"scroll",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			],
+			[
+				"comp",
+				"Component\talias"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"alin",
+				"text-align"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"read",
+				"readonly\tAttr"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"notific",
+				"notifications"
+			],
+			[
+				"Ro",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"rou",
+				"route\tL5 Route"
+			],
+			[
+				"Au",
+				"Auth::user\tGet the currently authenticated user."
+			],
+			[
+				"la",
+				"layouts\\app.blade.php \tBlade Autocomplete"
+			],
+			[
+				"theme",
+				"theme\\layouts\\layout.blade.php \tBlade Autocomplete"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ima",
+				"imagePath"
+			],
+			[
+				"thum",
+				"thumbnail"
+			],
+			[
+				"dd",
+				"dd\tL5 dd"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"app",
+				"append\t.append()"
+			],
+			[
+				"appen",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"n",
+				"under"
+			],
+			[
+				"text",
+				"text-underline-position"
+			],
+			[
+				"ps",
+				"perspective"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server/index.js",
+			"settings":
+			{
+				"buffer_size": 1555,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/main.js",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 760,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 474,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "rei",
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"line",
+				"Permute Lines: Unique"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan: Dump Autoload"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: QUnit HTML"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"menu",
+			"make:model Model",
+			"artisan",
+			"php artisan",
+			"subl",
+			"cls",
+			"npm run dev",
+			"menu",
+			"cd",
+			"cs",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"xxx"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/AMPPS/www/sockets-prueba",
+		"/Applications/AMPPS/www/sockets-prueba/client",
+		"/Applications/AMPPS/www/sockets-prueba/server"
+	],
+	"file_history":
+	[
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/services/project.service.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/create/create.component.ts",
+		"/Users/desarrollador/Documents/masterjs/backend-node/.gitignore",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/assets/css/styles.css",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/services/global.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/create/create.component.html",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/app.routing.ts",
+		"/Users/desarrollador/Documents/masterjs/backend-node/controllers/project.js",
+		"/Users/desarrollador/Documents/masterjs/backend-node/routes/project.js",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/services/upload.service.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/models/project.ts",
+		"/Users/desarrollador/Documents/masterjs/backend-node/models/project.js",
+		"/Users/desarrollador/Documents/masterjs/backend-node/node_modules/mongoose/lib/model.js",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/index.html",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/node_modules/rxjs/Observable.js",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/app.module.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/about/about.component.html",
+		"/Users/desarrollador/Documents/masterjs/backend-node/index.js",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/app.component.html",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/src/app/components/about/about.component.ts",
+		"/Users/desarrollador/Documents/masterjs/proyecto-angular/angular.json",
+		"/C/laragon/www/backend/socket.js",
+		"/C/laragon/www/backend/index.js",
+		"/C/laragon/www/backend/controllers/socket.js",
+		"/C/laragon/www/backend/client/main.js",
+		"/C/laragon/www/backend/app.js",
+		"/C/laragon/www/backend/routes/socket.js",
+		"/C/laragon/www/backend/client/index.html",
+		"/C/laragon/www/backend/controllers/project.js",
+		"/C/laragon/www/backend/routes/project.js",
+		"/C/laragon/www/backend/client/main.css",
+		"/C/laragon/www/backend/package.json",
+		"/C/laragon/www/backend/models/project.js",
+		"/C/laragon/www/backend/.gitignore",
+		"/C/laragon/www/backend/node_modules/mongoose/lib/model.js",
+		"/C/laragon/www/laravel-vue/routes/web.php",
+		"/C/laragon/www/plantilla-mvc/app/Controllers/LoginController.php",
+		"/C/laragon/www/plantilla-mvc/core/Database/DB.php",
+		"/C/laragon/www/plantilla-mvc/app/Controllers/AdminController.php",
+		"/C/laragon/www/plantilla-mvc/core/Controller/BaseController.php",
+		"/C/laragon/www/angular-master/src/app/models/zapatilla.ts",
+		"/C/laragon/www/angular-master/src/app/zapatillas/zapatillas.component.ts",
+		"/C/laragon/www/angular-master/src/app/zapatillas/zapatillas.component.html",
+		"/C/laragon/www/angular-master/src/app/app.component.html",
+		"/C/laragon/www/angular-master/src/app/videojuego/videojuego.component.ts",
+		"/C/laragon/www/angular-master/src/app/app.component.ts",
+		"/C/laragon/www/angular-master/src/app/videojuego/videojuego.component.html",
+		"/C/laragon/www/angular-master/src/app/models/configuracion.ts",
+		"/C/laragon/www/angular-master/src/app/app.module.ts",
+		"/C/laragon/www/angular-master/src/app/cursos/cursos.component.ts",
+		"/C/laragon/www/database/Connection.php",
+		"/C/laragon/www/angular-master/src/index.html",
+		"/C/laragon/www/cemde/routes/web.php",
+		"/C/laragon/www/cemde/.env",
+		"/C/laragon/www/unbroken/wp-config.php",
+		"/C/laragon/www/laravel/routes/web.php",
+		"/C/laragon/www/laravel/.env",
+		"/C/laragon/www/tweendo/.env",
+		"/C/laragon/www/crgno2/routes/web.php",
+		"/C/laragon/www/crgno2/.env",
+		"/C/laragon/www/crgno/routes/web.php",
+		"/C/laragon/www/crgno/.env",
+		"/C/laragon/www/cemde/app/Policies/PacientesPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/PacientesController.php",
+		"/C/laragon/www/cemde/resources/views/citas/citas-js.blade.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/TurneroController.php",
+		"/C/laragon/www/cemde/app/Policies/CitasPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/CitasController.php",
+		"/C/laragon/www/cemde/resources/views/citas/index.blade.php",
+		"/C/laragon/www/cemde/resources/views/turnero/turnero-js.blade.php",
+		"/C/laragon/www/cemde/resources/views/roles/fields.blade.php",
+		"/C/laragon/www/cemde/resources/views/roles/create.blade.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/rolesController.php",
+		"/C/laragon/www/cemde/resources/views/tareas/fields.blade.php",
+		"/C/laragon/www/cemde/resources/views/tareas/lista.blade.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/PreFacturaController.php",
+		"/C/laragon/www/cemde/app/Policies/PreFacturasPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/ConfigFacturacionPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/ReportesPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/UserPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/ServiciosPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/HorariosPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/EmpresasPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/CuentasPolicies.php",
+		"/C/laragon/www/cemde/vendor/laravel/framework/src/Illuminate/Auth/Access/HandlesAuthorization.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/ReportesController.php",
+		"/C/laragon/www/cemde/app/Policies/IngresoCotizacionesPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/FacturasPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/FacturaController.php",
+		"/C/laragon/www/cemde/app/Policies/PagosPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/PagoController.php",
+		"/C/laragon/www/cemde/app/Policies/CotizacionesPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/IngresoCotizacionController.php",
+		"/C/laragon/www/cemde/app/Models/Producto.php",
+		"/C/laragon/www/cemde/app/Policies/InventariosPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/SalidasInventariosPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/SalidaInventarioController.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/SolicitudController.php",
+		"/C/laragon/www/cemde/app/Policies/ComprasPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/SolicitudesPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/CompraController.php",
+		"/C/laragon/www/cemde/app/Policies/ProveedoresPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/EquiposMedicosPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/MueblesEnseresPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/ProductosPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/ServiciosIntangiblesPolicies.php",
+		"/C/laragon/www/cemde/app/Http/Helpers.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/ProductoController.php",
+		"/C/laragon/www/cemde/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/laragon/www/cemde/vendor/spatie/laravel-permission/src/Traits/HasRoles.php",
+		"/C/laragon/www/cemde/app/Traits/BeforePoliticas.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/HomeController.php",
+		"/C/laragon/www/cemde/app/Policies/AtencionesPolicies.php",
+		"/C/laragon/www/cemde/app/Policies/BloqueadoPolicies.php",
+		"/C/laragon/www/cemde/resources/views/bloqueados/index.blade.php",
+		"/C/laragon/www/cemde/app/Policies/CalendariosPolicies.php",
+		"/C/laragon/www/cemde/resources/views/pacientes/show.blade.php",
+		"/C/laragon/www/cemde/resources/views/calendarios/datatables_actions.blade.php",
+		"/C/laragon/www/cemde/app/Models/Solicitud.php",
+		"/C/laragon/www/cemde/app/Http/Controllers/InventarioController.php",
+		"/C/laragon/www/cemde/app/Models/Cotizacion.php",
+		"/C/laragon/www/cemde/resources/views/cotizaciones/items.blade.php",
+		"/C/laragon/www/cemde/resources/views/cotizaciones/fields.blade.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 190.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1513,
+								1513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 634.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1387,
+								1387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 617.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Seti_UI/icons/Langs/Npm (JSON).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 104.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sockets.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"detailcon",
+				"proyecto-angular/src/app/components/detail/detail.component.html"
+			],
+			[
+				"project.se",
+				"proyecto-angular/src/app/services/project.service.ts"
+			],
+			[
+				"styles.css",
+				"proyecto-angular/src/assets/css/styles.css"
+			],
+			[
+				"projectscon",
+				"proyecto-angular/src/app/components/projects/projects.component.html"
+			],
+			[
+				"routesproje",
+				"backend-node/routes/project.js"
+			],
+			[
+				"stylescs",
+				"proyecto-angular/src/assets/css/styles.css"
+			],
+			[
+				"rxjsobser",
+				"proyecto-angular/node_modules/rxjs/Observable.js"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"pacientespoli",
+				"app\\Policies\\PacientesPolicies.php"
+			],
+			[
+				"paciecon",
+				"app\\Http\\Controllers\\PacientesController.php"
+			],
+			[
+				"citasind",
+				"resources\\views\\citas\\index.blade.php"
+			],
+			[
+				"citasjs",
+				"resources\\views\\citas\\citas-js.blade.php"
+			],
+			[
+				"turnerojs",
+				"resources\\views\\turnero\\turnero-js.blade.php"
+			],
+			[
+				"citascon",
+				"app\\Http\\Controllers\\CitasController.php"
+			],
+			[
+				"turnerocon",
+				"app\\Http\\Controllers\\TurneroController.php"
+			],
+			[
+				"tareasfie",
+				"resources\\views\\tareas\\fields.blade.php"
+			],
+			[
+				"rolesfield",
+				"resources\\views\\roles\\fields.blade.php"
+			],
+			[
+				"rolescrea",
+				"resources\\views\\roles\\create.blade.php"
+			],
+			[
+				"rolescon",
+				"app\\Http\\Controllers\\rolesController.php"
+			],
+			[
+				"reporcon",
+				"app\\Http\\Controllers\\ReportesController.php"
+			],
+			[
+				"prefc",
+				"app\\Http\\Controllers\\PreFacturaController.php"
+			],
+			[
+				"pagocon",
+				"app\\Http\\Controllers\\PagoController.php"
+			],
+			[
+				"faccon",
+				"app\\Http\\Controllers\\FacturaController.php"
+			],
+			[
+				"ingresococon",
+				"app\\Http\\Controllers\\IngresoCotizacionController.php"
+			],
+			[
+				"ingrecotipol",
+				"app\\Policies\\IngresoCotizacionesPolicies.php"
+			],
+			[
+				"salidaincon",
+				"app\\Http\\Controllers\\SalidaInventarioController.php"
+			],
+			[
+				"comprpoli",
+				"app\\Policies\\ComprasPolicies.php"
+			],
+			[
+				"comprcon",
+				"app\\Http\\Controllers\\CompraController.php"
+			],
+			[
+				"solicitudcon",
+				"app\\Http\\Controllers\\SolicitudController.php"
+			],
+			[
+				"apphel",
+				"app\\Http\\Helpers.php"
+			],
+			[
+				"procon",
+				"app\\Http\\Controllers\\ProductoController.php"
+			],
+			[
+				"calendarioac",
+				"resources\\views\\calendarios\\datatables_actions.blade.php"
+			],
+			[
+				"bloqueaind",
+				"resources\\views\\bloqueados\\index.blade.php"
+			],
+			[
+				"bloqueadopoli",
+				"app\\Policies\\BloqueadoPolicies.php"
+			],
+			[
+				"before",
+				"app\\Traits\\BeforePoliticas.php"
+			],
+			[
+				"helper",
+				"app\\Http\\Helpers.php"
+			],
+			[
+				"pacientshow",
+				"resources\\views\\pacientes\\show.blade.php"
+			],
+			[
+				"homecon",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"salidainvpoli",
+				"app\\Policies\\SalidasInventariosPolicies.php"
+			],
+			[
+				"invcon",
+				"app\\Http\\Controllers\\InventarioController.php"
+			],
+			[
+				"modelssoli",
+				"app\\Models\\Solicitud.php"
+			],
+			[
+				"compcon",
+				"app\\Http\\Controllers\\CompraController.php"
+			],
+			[
+				"solicon",
+				"app\\Http\\Controllers\\SolicitudController.php"
+			],
+			[
+				"appbla",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"soliccon",
+				"app\\Http\\Controllers\\SolicitudController.php"
+			],
+			[
+				"modelcoti",
+				"app\\Models\\Cotizacion.php"
+			],
+			[
+				"coticon",
+				"app\\Http\\Controllers\\CotizacionController.php"
+			],
+			[
+				"ingresocoda",
+				"app\\DataTables\\IngresoCotizacionDataTable.php"
+			],
+			[
+				"ingresocoti",
+				"app\\Models\\IngresoCotizacion.php"
+			],
+			[
+				"ingresoindex",
+				"resources\\views\\ingreso_cotizacions\\index.blade.php"
+			],
+			[
+				"ingrescopol",
+				"app\\Policies\\IngresoCotizacionesPolicies.php"
+			],
+			[
+				"cotizaindex",
+				"resources\\views\\cotizaciones\\index.blade.php"
+			],
+			[
+				"cotiactio",
+				"resources\\views\\cotizaciones\\datatables_actions.blade.php"
+			],
+			[
+				"cotizacida",
+				"app\\DataTables\\CotizacionDataTable.php"
+			],
+			[
+				"cotizaciondataac",
+				"resources\\views\\cotizaciones\\datatables_actions.blade.php"
+			],
+			[
+				"modelsitem",
+				"app\\Models\\ItemCotizacion.php"
+			],
+			[
+				"modelsfa",
+				"app\\Models\\Factura.php"
+			],
+			[
+				"create_cotiza",
+				"database\\migrations\\2018_04_03_114037_create_item_cotizacions_table.php"
+			],
+			[
+				"cotizacioncon",
+				"app\\Http\\Controllers\\CotizacionController.php"
+			],
+			[
+				"modelscoti",
+				"app\\Models\\Cotizacion.php"
+			],
+			[
+				"cotizacionesdat",
+				"resources\\views\\cotizaciones\\datatables_actions.blade.php"
+			],
+			[
+				"impresiones",
+				"app\\Http\\Controllers\\ImpresionesController.php"
+			],
+			[
+				"rolescontro",
+				"app\\Http\\Controllers\\rolesController.php"
+			],
+			[
+				"homecontroller",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"createpermission",
+				"database\\migrations\\2018_03_19_122300_create_permission_tables.php"
+			],
+			[
+				"create_permis",
+				"vendor\\spatie\\laravel-permission\\database\\migrations\\create_permission_tables.php.stub"
+			],
+			[
+				"appuser",
+				"app\\User.php"
+			],
+			[
+				"tareasfiel",
+				"resources\\views\\tareas\\fields.blade.php"
+			],
+			[
+				"citasmodal",
+				"resources\\views\\citas\\modals.blade.php"
+			],
+			[
+				"usercon",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"municon",
+				"app\\Http\\Controllers\\MunicipioController.php"
+			],
+			[
+				"emprespo",
+				"app\\Policies\\EmpresasPolicies.php"
+			],
+			[
+				"calendcon",
+				"app\\Http\\Controllers\\CalendarioController.php"
+			],
+			[
+				"modelscal",
+				"app\\Models\\Calendario.php"
+			],
+			[
+				"calenddat",
+				"app\\DataTables\\CalendarioDataTable.php"
+			],
+			[
+				"calendata",
+				"app\\DataTables\\CalendarioDataTable.php"
+			],
+			[
+				"bloqdata",
+				"app\\DataTables\\BloqueadoDataTable.php"
+			],
+			[
+				"modelshora",
+				"app\\Models\\Horario.php"
+			],
+			[
+				"modelsblo",
+				"app\\Models\\Bloqueado.php"
+			],
+			[
+				"bloqcon",
+				"app\\Http\\Controllers\\BloqueadoController.php"
+			],
+			[
+				"calendpol",
+				"app\\Policies\\CalendariosPolicies.php"
+			],
+			[
+				"8b3bbfe835a1b6efd410bd440e1121756e49523b",
+				"storage\\framework\\views\\8b3bbfe835a1b6efd410bd440e1121756e49523b.php"
+			],
+			[
+				"calencon",
+				"app\\Http\\Controllers\\CalendarioController.php"
+			],
+			[
+				"modelshor",
+				"app\\Models\\Horario.php"
+			],
+			[
+				"modelsoli",
+				"app\\Models\\Solicitud.php"
+			],
+			[
+				"modelcale",
+				"app\\Models\\Calendario.php"
+			],
+			[
+				"horarioda",
+				"app\\DataTables\\HorarioDataTable.php"
+			],
+			[
+				"horariospol",
+				"app\\Policies\\HorariosPolicies.php"
+			],
+			[
+				"help",
+				"app\\Http\\Helpers.php"
+			],
+			[
+				"horarifiel",
+				"resources\\views\\horarios\\fields.blade.php"
+			],
+			[
+				"horaricon",
+				"app\\Http\\Controllers\\HorarioController.php"
+			],
+			[
+				"productocontroller",
+				"app\\Http\\Controllers\\ProductoController.php"
+			],
+			[
+				"salidfield",
+				"resources\\views\\salida_inventarios\\fields.blade.php"
+			],
+			[
+				"laynoti",
+				"resources\\views\\layouts\\notificaciones.blade.php"
+			],
+			[
+				"modelssali",
+				"app\\Models\\SalidaInventario.php"
+			],
+			[
+				"salidind",
+				"app\\DataTables\\SalidaInventarioDataTable.php"
+			],
+			[
+				"",
+				"app\\Http\\Controllers\\SalidaInventarioController.php"
+			],
+			[
+				"salidincon",
+				"app\\Http\\Controllers\\SalidaInventarioController.php"
+			],
+			[
+				"invecon",
+				"app\\Http\\Controllers\\InventarioController.php"
+			],
+			[
+				"invtshow",
+				"resources\\views\\inventarios\\show_fields.blade.php"
+			],
+			[
+				"invedat",
+				"app\\DataTables\\InventarioDataTable.php"
+			],
+			[
+				"inventdat",
+				"app\\DataTables\\InventarioDataTable.php"
+			],
+			[
+				"eloqumode",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"solicidat",
+				"app\\DataTables\\SolicitudDataTable.php"
+			],
+			[
+				"solicicon",
+				"app\\Http\\Controllers\\SolicitudController.php"
+			],
+			[
+				"solicdatac",
+				"resources\\views\\solicitudes\\datatables_actions.blade.php"
+			],
+			[
+				"solicind",
+				"resources\\views\\solicitudes\\index.blade.php"
+			],
+			[
+				"solicdat",
+				"app\\DataTables\\SolicitudDataTable.php"
+			],
+			[
+				"invenpoli",
+				"app\\Policies\\InventariosPolicies.php"
+			],
+			[
+				"solicishowf",
+				"resources\\views\\item_solicituds\\show_fields.blade.php"
+			],
+			[
+				"auth",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"solicpoli",
+				"app\\Policies\\SolicitudesPolicies.php"
+			],
+			[
+				"helpe",
+				"app\\Http\\Helpers.php"
+			],
+			[
+				"tabsppar",
+				"resources\\views\\pacientes\\tabs\\pparaclinicos.blade.php"
+			],
+			[
+				"tabspnq",
+				"resources\\views\\pacientes\\tabs\\pnq.blade.php"
+			],
+			[
+				"tabsima",
+				"resources\\views\\pacientes\\tabs\\imagenes-diagnosticas.blade.php"
+			],
+			[
+				"tabselab",
+				"resources\\views\\pacientes\\tabs\\examenes-laboratorio.blade.php"
+			],
+			[
+				"tabsciru",
+				"resources\\views\\pacientes\\tabs\\cirugias.blade.php"
+			],
+			[
+				"pacientesshow",
+				"resources\\views\\pacientes\\show.blade.php"
+			],
+			[
+				"tabshis",
+				"resources\\views\\pacientes\\tabs\\historia.blade.php"
+			],
+			[
+				"tabsctc",
+				"resources\\views\\pacientes\\tabs\\ctc.blade.php"
+			],
+			[
+				"ctccon",
+				"app\\Http\\Controllers\\CtcController.php"
+			],
+			[
+				"tabsconsen",
+				"resources\\views\\pacientes\\tabs\\consentimientos-informados.blade.php"
+			],
+			[
+				"tabsanexo",
+				"resources\\views\\pacientes\\tabs\\anexo_tecnico.blade.php"
+			],
+			[
+				"anexotecon",
+				"app\\Http\\Controllers\\AnexoTecnicoController.php"
+			],
+			[
+				"consentimicon",
+				"app\\Http\\Controllers\\ConsentimientoInformadoController.php"
+			],
+			[
+				"tabsprocedimi",
+				"resources\\views\\pacientes\\tabs\\procedimientos.blade.php"
+			],
+			[
+				"procedicon",
+				"app\\Http\\Controllers\\ProcedimientoController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

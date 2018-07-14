@@ -1,12 +1,12 @@
 //
 
-// var socket = io.connect('http://localhost:3000', {
+var socket = io.connect('http://localhost:3000', {
+	
+})
+
+// var socket = io.connect('https://crisgal-chat-node.herokuapp.com', {
 // 	forceNew: true,
 // })
-
-var socket = io.connect('https://crisgal-chat-node.herokuapp.com', {
-	forceNew: true,
-})
 
 //console.log(socket);
 
@@ -29,6 +29,10 @@ socket.on('evento-prueba', function(data){
 socket.on('App\\Events\\PacienteLLamado', function(data){
 	console.log(data);
 });
+
+socket.on('alarma', function(data){
+	soundManager.play('campana');
+})
 
 
 function render(data){
@@ -59,3 +63,10 @@ function addMessage(e){
 
 	return false;
 }
+
+soundManager.onready(function() {
+	    soundManager.createSound({
+	        id: 'campana',
+	        url: 'Bell-tone.mp3'
+	    });
+	});

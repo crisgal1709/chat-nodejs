@@ -6,22 +6,38 @@ var bodyParser = require('body-parser');
 
 var port = process.env.PORT || 3000;
 
+const apps = [
+	'123',
+	'1234',
+	'12345'
+]
+
 server.listen(port, function(){
-	console.log('El servidor está funcionando en localhost:' + port);
+	console.log('servidor corriendo');
 });
 
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json());
 
+
+// Configurar cabeceras y cors
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
+    res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
+    res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
+    next();
+});
+
 //Ruta
 
-app.get('/hola-mundo', (req, res)=> {
+app.get('/hola-mundo', (req, res) => {
 	console.log(req.query);
 	io.emit('prueba', req.query )
 	res.status(200).send('si');
 });
 
-app.get('/prueba', (req, res)=> {
+app.get('/prueba', (req, res) => {
 	//console.log(req.query.event);
 	io.emit(req.query.event, req.query )
 	res.status(200).send('');
@@ -29,7 +45,12 @@ app.get('/prueba', (req, res)=> {
 
 app.post('/event-post', (req, res) => {
 	io.emit(req.body.event, req.body)
-	res.status(200).send('');
+	//console.log(req.body)
+	res.status(200).send({error: 0, message: 'Broadcast succesfully'});
+});
+
+app.post('/app', (req, res) => {
+	res.status(200).send({message: 'bienvenido'})
 });
 
 //Sockets
@@ -61,6 +82,10 @@ io.on('connection', (socket) => {
 	})
 
 });
+
+setInterval(function(){ 
+	io.emit('alarma', {message: 'Esta es la alarma'})
+}, 3600000);
 
 app.use(express.static('client'));
 
