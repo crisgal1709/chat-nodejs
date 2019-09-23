@@ -13,7 +13,7 @@ const apps = [
 ]
 
 server.listen(port, function(){
-	console.log('servidor corriendo');
+	console.log('servidor corriendo in port ' + port);
 });
 
 app.use(bodyParser.urlencoded({extended: false}))
@@ -62,11 +62,8 @@ var messages = [
 	}
 ];
 
-// io.set('origins', '*:*')
-// io.set('match origin protocol', true)
-
 io.on('connection', (socket) => {
-	//console.log('El nodo con IP: ' + socket.handshake.address + ' Se ha conectado');
+	//console.log(socket)
 	socket.emit('messages', messages);
 
 	socket.on('addMessage', function(data) {
@@ -84,6 +81,6 @@ io.on('connection', (socket) => {
 
 setInterval(function(){
 	io.emit('alarma', {message: 'Esta es la alarma'})
-}, 10000);
+}, 30000000);
 
 app.use(express.static('client'));

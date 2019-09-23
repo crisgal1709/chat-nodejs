@@ -1,14 +1,17 @@
 //
 
-var socket = io.connect('', {
-	
-})
+var socket = io.connect('', {})
 
-// var socket = io.connect('https://crisgal-chat-node.herokuapp.com', {
-// 	forceNew: true,
-// })
+document.addEventListener("DOMContentLoaded", function(e) {
+   var r = localStorage.getItem('nickname');
 
-//console.log(socket);
+   if (r === null) {
+   	document.getElementById('nickname').style.display = 'block';
+   } else {
+   	document.getElementById('nickname').style.display = 'none';
+   }
+});
+
 
 //Cambiar el io.connect para local o para heroku
 
@@ -16,22 +19,8 @@ socket.on('messages', function(data){
 	render(data);
 })
 
-
-socket.on('prueba', function(data){
-	addMessage(data);
-})
-
-
-socket.on('evento-prueba', function(data){
-	console.log(data);
-})
-
-socket.on('App\\Events\\PacienteLLamado', function(data){
-	console.log(data);
-});
-
 socket.on('alarma', function(data){
-	soundManager.play('campana');
+	//soundManager.play('campana');
 })
 
 
@@ -51,11 +40,21 @@ function render(data){
 
 function addMessage(e){
 
+	var l = document.getElementById('nickname').value;
+
+	if (l != '') {
+		localStorage.setItem('nickname', l);
+	}
+
+	let n = localStorage.getItem('nickname') || e.nickname;
+
 	var message = {
-		nickname: document.getElementById('nickname').value || e.nickname,
+		nickname: n,
 		text: document.getElementById('text').value || e.text
 	};
-	//console.log(message);
+
+	//console.log(message)
+
 	document.getElementById('nickname').style.display = 'none';
 	document.getElementById('text').value = '';
 
@@ -64,9 +63,9 @@ function addMessage(e){
 	return false;
 }
 
-soundManager.onready(function() {
-	    soundManager.createSound({
-	        id: 'campana',
-	        url: 'Bell-tone.mp3'
-	    });
-	});
+document.getElementById('text').addEventListener('keyup', (e) => {
+  if (e.keyCode == 13) {
+  	document.getElementById('formChat').requestSubmit()
+  }
+});
+
