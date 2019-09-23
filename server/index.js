@@ -80,14 +80,10 @@ io.on('connection', (socket) => {
 		};
 		io.sockets.emit('paciente_atencion', mensaje);
 	})
-
 });
 
-setInterval(function(){ 
+setInterval(function(){
 	io.emit('alarma', {message: 'Esta es la alarma'})
 }, 3600000);
 
 app.use(express.static('client'));
-
-
-
