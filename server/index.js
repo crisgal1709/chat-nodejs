@@ -84,6 +84,6 @@ io.on('connection', (socket) => {
 
 setInterval(function(){
 	io.emit('alarma', {message: 'Esta es la alarma'})
-}, 3600000);
+}, 10000);
 
 app.use(express.static('client'));
