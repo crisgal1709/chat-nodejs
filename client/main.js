@@ -53,7 +53,9 @@ function addMessage(e){
 		text: document.getElementById('text').value || e.text
 	};
 
-	//console.log(message)
+	if (message.text == null) {
+		message.text = '';
+	}
 
 	document.getElementById('nickname').style.display = 'none';
 	document.getElementById('text').value = '';
