@@ -53,8 +53,12 @@ function addMessage(e){
 		text: document.getElementById('text').value || e.text
 	};
 
-	if (message.text == null) {
-		message.text = '';
+	message.text = message.text.trim()
+
+	if (message.text == null || message.text == '') {
+		alert('Escriba algo');
+		document.getElementById('text').value = '';
+		return false;
 	}
 
 	document.getElementById('nickname').style.display = 'none';
